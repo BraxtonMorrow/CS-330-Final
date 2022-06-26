@@ -1,2 +1,7 @@
 # CS-330-Final
-CS-330-Final
+**How do I approach designing software?**
+Typically I try to approach things from a user perspective, "if I was using this software what would be important to me" etc. With this class I was the user directly, as it was simply a learning experience there was no fake clients. So things were a bit different, I had to really focus on functionality and readability, because I was reusing the same code over and over it was very important I understood what each function was doing and how it was going to fit into my overall project. As software is a piece of a program that all get added together.
+**How do I approach developing programs?**
+I try to understand what my overarching goal for the software is going to be, and then break that down into different programs each accomplishing their own goal. For this class I sorta just threw everything into one document so I could read it a bit easier and it would all be on one screen rather than having to scroll around. I also utilized an outside library called GLUT that really cleaned things up, had I not been using GLUT I probably would have broken up functionality.
+**How can computer science help me in reaching my goals?**
+Most of my goals in life involve either traveling, or creating. In most cases computer science can help with both. It's a well paying carreer (at least in the US don't google software dev salaries in india) that is generally respectable, and will help fund my traveling. In terms of creating, I really would like to create a few ideas I've had for awhile, not going to give them away as they may be potentially lucrative, however utliizng computer science can make these possible. As well I wish to design a video game some day, and computer science is directly involved.
